@@ -1,3 +1,6 @@
 cv2
 imutils
 numpy
+argparse
+matplotlib
+skimage
