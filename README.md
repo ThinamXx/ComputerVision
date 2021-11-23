@@ -9,3 +9,6 @@ The repository contains a list of projects and notebooks which I have worked on 
 
 [**2. CONVOLUTIONAL NEURAL NETWORKS**](https://github.com/ThinamXx/ComputerVision/tree/main/02.%20ConvolutionalNeuralNetworks)
 - The **Convolutions** notebook contains all the dependencies required to understand the implementation of Image Convolutions and Kernels. The **Convolutional Layers** notebook contains all the dependencies required to understand Keras Conv2D Class and Convolutional Layers.
+
+[**3. IMAGE CLASSIFICATION**](https://github.com/ThinamXx/ComputerVision/tree/main/03.%20Image%20Classification)
+- The **Simplepreprocessor** notebook contains implementation of simple image preprocessor, loading an image dataset into memory, and K-Nearest Neighbor Classifier. K-Nearest Neighbor Classifier doesn’t actually learn anything, but it directly relies on the distance between feature vectors.
