@@ -4,6 +4,9 @@ The [**Simplepreprocessor**](https://github.com/ThinamXx/ComputerVision/blob/mai
 
 **Notebook:**
 - 📑[**Simplepreprocessor**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/Simplepreprocessor.ipynb)
+- 📑[**LinearClassifier**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/LinearClassifier.ipynb) 
+- 📑[**GradientDescent**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/GradientDescent.ipynb) 
+- 📑[**StochasticGradientDescent**](https://github.com/ThinamXx/ComputerVision/blob/main/03.%20Image%20Classification/StochasticGradientDescent.ipynb) 
 
 **Simple Preprocessor and Dataset Loader**
 - I will build an image preprocessor that resizes the image, ignoring the aspect ratio. I have presented the implementation of Image Preprocessor and Dataset Loader here in the snapshot. 
