@@ -15,3 +15,6 @@ The repository contains a list of projects and notebooks which I have worked on 
 
 [**4. NEURAL NETWORKS**](https://github.com/ThinamXx/ComputerVision/tree/main/04.%20Neural%20Networks)
 - The **Neural Networks** notebook contains the implementation of Perceptron algorithm, backpropagation algorithm, and neural networks from scratch.
+
+[**5. LENET ARCHITECTURE**](https://github.com/ThinamXx/ComputerVision/tree/main/05.%20LeNet%20Architecture)
+- The **LeNet Architecture** notebook contains the implementation of LeNet Architecture. LeNet is a seminal work in the deep learning literature which demonstrates how neural networks could be trained to recognize objects in images without feture extraction.
