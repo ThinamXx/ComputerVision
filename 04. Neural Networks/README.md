@@ -2,7 +2,7 @@
 
 The [**Neural Networks**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb) notebook contains the implementation of **Perceptron** algorithm, backpropagation algorithm, and neural networks from scratch. 
 
-📚[**Notebooks:**]
+📚**Notebooks:**
 - [**Neural Network**](https://github.com/ThinamXx/ComputerVision/blob/main/04.%20Neural%20Networks/NeuralNetworks.ipynb)
 
 **Rectified Linear Unit**
