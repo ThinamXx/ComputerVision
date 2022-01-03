@@ -2,7 +2,7 @@
 
 The [**LeNet Architecture**](https://github.com/ThinamXx/ComputerVision/blob/main/05.%20LeNet%20Architecture/LeNet.ipynb) notebook contains the implementation of LeNet Architecture. LeNet is a seminal work in the deep learning literature which demonstrates how neural networks could be trained to recognize objects in images without feture extraction. 
 
-📚[**Notebooks:**
+📚**Notebooks:**
 - [**LeNet Notebook**](https://github.com/ThinamXx/ComputerVision/blob/main/05.%20LeNet%20Architecture/LeNet.ipynb)
 
 **LeNet**
