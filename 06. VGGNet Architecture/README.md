@@ -1,1 +1,1 @@
-# **Computer Vision: LeNet Architecture**
+# **Computer Vision: Mini VGGNet Architecture**
