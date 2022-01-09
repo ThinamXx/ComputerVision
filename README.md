@@ -18,3 +18,6 @@ The repository contains a list of projects and notebooks which I have worked on 
 
 [**5. LENET ARCHITECTURE**](https://github.com/ThinamXx/ComputerVision/tree/main/05.%20LeNet%20Architecture)
 - The **LeNet Architecture** notebook contains the implementation of LeNet Architecture. LeNet is a seminal work in the deep learning literature which demonstrates how neural networks could be trained to recognize objects in images without feture extraction.
+
+[**6. VGGNET ARCHITECTURE**](https://github.com/ThinamXx/ComputerVision/tree/main/06.%20VGGNet%20Architecture) 
+- The **Mini VGGNet** notebook contains the implementation of VGGNet Architecture. It makes the use of only 3 X 3 filters regardless of network depth.
