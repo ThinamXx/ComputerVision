@@ -1,8 +1,0 @@
-cv2
-imutils
-numpy
-matplotlib
-skimage
-keras
-tensorflow
-scikit-learn
