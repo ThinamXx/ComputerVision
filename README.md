@@ -21,3 +21,7 @@ The repository contains a list of projects and notebooks which I have worked on 
 
 [**6. VGGNET ARCHITECTURE**](https://github.com/ThinamXx/ComputerVision/tree/main/06.%20VGGNet%20Architecture) 
 - The **Mini VGGNet** notebook contains the implementation of VGGNet Architecture. It makes the use of only 3 X 3 filters regardless of network depth.
+
+[**7. PRETRAINED CNN**](https://github.com/ThinamXx/ComputerVision/tree/main/07.%20Pretrained%20CNNs) 
+- The **Pretrained CNNs** notebook contains the reviews of convolutional neural networks and implementation of VGG16 and Xception networks for classification of images.
+
