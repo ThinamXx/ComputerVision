@@ -26,4 +26,4 @@ The repository contains a list of projects and notebooks which I have worked on 
 - The **Pretrained CNNs** notebook contains the reviews of convolutional neural networks and implementation of VGG16 and Xception networks for classification of images.
 
 [**8. OBJECT DETECTION**](https://github.com/ThinamXx/ComputerVision/tree/main/08.%20Object%20Detection) 
-- The Object Detection notebook contains implementation of object detection with PyTorch and pretrained networks. It also contains brief description about object detection and image preprocessing.
+- The **Object Detection** notebook contains implementation of object detection with PyTorch and pretrained networks. It also contains brief description about object detection and image preprocessing.
